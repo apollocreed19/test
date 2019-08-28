@@ -3,7 +3,7 @@
   <meta http-equiv="Content-Type"content="text/html;charset=utf-8" :>
 <head/>
 <body style="color: white;
-background-colr: teal;
+background-colr: red;
 font-size: 20pt;
 font-family: sans-serif;">
   
