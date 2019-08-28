@@ -9,9 +9,4 @@ font-family: sans-serif;">
   <h1>a tous les ploucs:<h1/>
 
 
-
-
-
-
-
 <p>bonjour<p/>
