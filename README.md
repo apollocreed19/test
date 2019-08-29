@@ -2,8 +2,8 @@
 <head>
   <meta http-equiv="Content-Type"content="text/html;charset=utf-8" :>
 <head/>
-<body style="color: green;
-background-color: red;
+<body style="color: blue;
+background-color: white;
 font-size: 30pt;
 font-family: sans-serif;">
   
