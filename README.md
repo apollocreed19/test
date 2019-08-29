@@ -2,7 +2,7 @@
 <head>
   <meta http-equiv="Content-Type"content="text/html;charset=utf-8" :>
 <head/>
-<body style="color: blue;
+<body style="color: red;
 background-color: white;
 font-size: 30pt;
 font-family: sans-serif;">
