@@ -4,7 +4,7 @@
 <head/>
 <body style="color: green;
 background-color: red;
-font-size: 12pt;
+font-size: 30pt;
 font-family: sans-serif;">
   
   <h1>a tous les ploucs:<h1/>
